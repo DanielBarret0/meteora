@@ -4,6 +4,8 @@
 <img src="https://github.com/DanielBarret0/meteora-challenge-alura-7-edicao/blob/main/assets/gif/banner-vitrine-dev.png" alt="imagem banner do Meteiora">
 </div>
   
+<p align="center"><b><a href="https://meteora.bohr.io">🚀 Ver o site no ar</a></b> · Alura Challenge Front-end, 7ª edição</p>
+
 # Alura Challenge Front-end 7 edição
   
 A Meteora é uma empresa do comércio eletrônico de roupas atemporais, casuais e sem gênero. Ela acredita que a moda é muito mais do que apenas tendências passageiras e oferece peças versáteis que se adaptam a qualquer estilo e ocasião.
@@ -154,8 +156,6 @@ Estou satisfeito com meu desempenho até o momento e com o que consegui aprender
 
 # 🙋‍♂️ Autor
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/DanielBarret0/codeChella/blob/main/LICENSE.md)
-
 José Daniel Aragão Barreto
 
-Acesse minha redes [aqui](https://social-links-v2.bohr.io/)
+[LinkedIn](https://www.linkedin.com/in/daniel-barreto-developer) · [Portfólio](https://portifoliodaniel.vercel.app/)
